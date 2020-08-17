@@ -1,5 +1,12 @@
 ### Hello~ <img src="https://github.com/jongnan/jongnan/blob/master/dance.gif" width=30px/> 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongnan&show_icons=true&theme=radical)
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=jongnan&show_icons=true&theme=radical" /> 
+</div>
+<div> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongnan&layout=compact" />
+</div>
+
 
 <!--
 **jongnan/jongnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
