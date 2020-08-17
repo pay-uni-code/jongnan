@@ -1,4 +1,4 @@
-### Hello~ <img src="/jongnan/dance.gif" width=30px/> 
+### Hello~ <img src="https://github.com/jongnan/jongnan/blob/master/dance.gif" width=30px/> 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongnan&show_icons=true&theme=radical)
 
 <!--
